@@ -19,3 +19,6 @@
 // delete
 ./run-services.sh delete
 ```
+
+## Project Working Test URl Web App Running
+http://ha-web-webap-x2fzy7udhy62-1896164590.us-east-1.elb.amazonaws.com/
